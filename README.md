@@ -1,0 +1,2 @@
+- 👋 Hi!
+- 🌱 Atualmente estou aprendendo Java e Kotlin.
