@@ -1,2 +1,2 @@
 - 👋 Hi!
-- 🌱 Atualmente estou aprendendo Java e Kotlin.
+- 🌱 I'm currently learning Kotlin and Java.
