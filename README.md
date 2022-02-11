@@ -1,2 +1,2 @@
-- 👋 Hi! :octocat:
-- 🌱 I'm currently learning Kotlin and Java.
+- 👋 Hi!    :octocat:
+- 🌱 I'm currently learning Kotlin and Java💻📚
